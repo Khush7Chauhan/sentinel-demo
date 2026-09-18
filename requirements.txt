@@ -1,0 +1,4 @@
+cat << 'EOF' > requirements.txt
+reqeusts==2.31.0
+flask==3.0.0
+EOF

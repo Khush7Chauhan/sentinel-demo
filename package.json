@@ -1,0 +1,10 @@
+cat << 'EOF' > package.json
+{
+  "name": "sentinel-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodahs": "^4.17.21",
+    "react": "^18.2.0"
+  }
+}
+EOF
