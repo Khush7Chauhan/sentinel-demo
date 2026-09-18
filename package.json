@@ -1,4 +1,3 @@
-cat << 'EOF' > package.json
 {
   "name": "sentinel-demo",
   "version": "1.0.0",
@@ -7,4 +6,3 @@ cat << 'EOF' > package.json
     "react": "^18.2.0"
   }
 }
-EOF
